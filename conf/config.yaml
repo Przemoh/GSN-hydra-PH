@@ -1,0 +1,8 @@
+defaults:
+  - optimizer: adam
+  - learning_rate: ten_thousand
+  - momentum: nine
+  - dropout: two
+  - epochs: fourty
+  - batch_size: thirty_two
+  - model: fifty
